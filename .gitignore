@@ -1,0 +1,31 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+venv/
+.envrc
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Selenium WebDriver binary
+chromedriver.exe
+chromedriver.log
+
+# Ignore Excel or CSV output files
+*.csv
+*.xlsx
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
