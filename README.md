@@ -14,7 +14,8 @@ This project is a simple web scraper that uses **Selenium** to extract client in
 - Required Python libraries:  
   - `selenium`  
   - `pandas`  
-
+  - `openpyxl`  
+  - `webdriver-manager`  
 ## Installation  
 1. Clone the repository:  
 2. Install dependencies:
